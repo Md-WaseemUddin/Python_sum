@@ -1,4 +1,5 @@
 ﻿# Python_sum
-a = 25 
-b = 35
-sum = a+b
+# a = 25 
+# b = 35
+# sum = a+b
+
